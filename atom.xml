@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rdestorm.github.io</id>
-    <title>Rdestorm</title>
-    <updated>2020-06-01T02:20:33.957Z</updated>
+    <title>赤风</title>
+    <updated>2020-06-01T03:11:31.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rdestorm.github.io"/>
     <link rel="self" href="https://rdestorm.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>独乐易乐，双乐易烦，三乐易反，众乐不凡。</subtitle>
     <logo>https://rdestorm.github.io/images/avatar.png</logo>
     <icon>https://rdestorm.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Rdestorm</rights>
+    <rights>All rights reserved 2020, 赤风</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://rdestorm.github.io/post/test/</id>
